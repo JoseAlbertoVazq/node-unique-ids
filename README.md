@@ -16,7 +16,7 @@ npm start
   Navigate to `http://localhost:4000`
 
 
-# Requeriments 
+# Requirements 
 
 ## Identity Service
 FX Labs has many different systems generating currency trades.
