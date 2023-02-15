@@ -7,7 +7,6 @@
 # Getting started
 - Install dependencies
 ```
-cd ./josealbertovazq_ebury_takehometest
 npm install
 ```
 - Build and run the project
