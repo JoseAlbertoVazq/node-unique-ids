@@ -34,5 +34,5 @@ app.get('/ping', async (req, res) => {
 app.use('/', routes);
 app.listen(4000, () => {
     logger.info(`Init at ${moment(new Date()).format("DD/MM/YYYY HH:mm:ss")}`);
-    console.log('Running this lovely Ebury project example at port 4000!');
+    console.log('Running this lovely project example at port 4000!');
 });
